@@ -1,0 +1,11 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Power BI temporary files
+*.tmp
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+desktop.ini

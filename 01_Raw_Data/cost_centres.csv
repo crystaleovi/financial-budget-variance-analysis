@@ -1,0 +1,11 @@
+id,ledger_set,centre_name,budget_holder,size_factor,spend_factor
+1,fy2025,Engineering,Hermann Rice,0.56,0.97
+2,fy2025,Customer support,Wanda Graham,0.59,0.98
+3,fy2025,Marketing,Cecilia Pagac,0.45,0.99
+4,fy2025,Sales,Kiley Franecki,0.64,1
+5,fy2025,Finance,Nichole Murphy,0.61,1.01
+6,fy2025,People,Urban Runolfsdottir,0.71,1.02
+7,fy2025,Operations,Jerod Swaniawski,0.57,1.03
+8,fy2025,Legal,Reece Champlin,0.66,1.04
+9,fy2025,Facilities,Juliana Koch,0.87,1.05
+10,fy2025,Data and analytics,Providenci Corkery IV,0.67,1.06

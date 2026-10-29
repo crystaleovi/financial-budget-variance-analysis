@@ -1,0 +1,9 @@
+id,ledger_set,account_no,account_label,monthly_base,spend_bias
+1,chart,6010,Salaries,52000,0.99
+2,chart,6020,Contractors,14000,1.04
+3,chart,6110,Software subscriptions,9500,1.07
+4,chart,6120,Cloud hosting,11000,1.05
+5,chart,6210,Travel,6000,0.93
+6,chart,6220,Training,3200,0.9
+7,chart,6310,Marketing programmes,12500,1.02
+8,chart,6410,Facilities,8000,1
